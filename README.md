@@ -1,5 +1,5 @@
 # Rohan-s-Programs
-A list of programs modified and used for learning purposes.
+A list of programs modified and used for learning purposes. Everyone has a different learning curve so take your time and enjoy. 
 
 Topics Covered include:
 Abstraction,
